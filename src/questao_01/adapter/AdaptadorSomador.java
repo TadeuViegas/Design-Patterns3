@@ -2,6 +2,7 @@ package questao_01.adapter;
 
 import questao_01.model.SomadorEsperado;
 import questao_01.model.SomadorExistente;
+
 import java.util.ArrayList;
 import java.util.List;
 
